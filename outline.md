@@ -35,15 +35,15 @@ Outline:
    1. Ethical Codes
       1. This undertaking is compatible with life.
          1. Life of humans, animals, and the ecosystem.
-         2. Does not kill
-         3. Does not bring suffering
-         4. Identify ways unassuming advances can bring suffering
-         5. Areas of ambiguity: animal suffering for human life.
+         2. Aims to avoid or mitigate death and suffering
+         3. Identify ways unassuming advances can bring suffering
+         4. Areas of ambiguity: animal suffering for human life.
       1. This undertaking is based on transparency. 
          1. Of Data
          2. Of Intent
-         3. Of funding
-         4. Areas of ambiguity: Defense, Cybersecurity, Research
+         3. Of Funding
+         4. Of Privacy 
+         5. Areas of ambiguity: Defense, Cybersecurity, Research
       1. This undertaking considers the future of the workforce.
          1. Does not displace 
          2. Does not weaken workers
