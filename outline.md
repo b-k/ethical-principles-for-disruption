@@ -5,7 +5,7 @@ Outline:
    1. Who is this written for?
    2. What is the purpose?
    3. What is the desired outcome?
-1. Definitions: Morals, Laws, and Ethics
+1. Definitions: Utility, Morals, Laws, and Ethics
    1. Define: Moral
          1. Inherently hard to define
          2. Too Ambiguous to guide human behavior
@@ -18,6 +18,11 @@ Outline:
          1. Guides authentic behavior
          2. Violation=Loss of social currency - trust
          3. Violation=Legacy
+   4. Define: Utility
+         1. Our time is short
+         2. What is the most valuable thing we can do?
+            1. Diminishing returns for everything
+            2. Consider individual and social benefits
    1. Economics vs Eudaimonics
       1. Basic tenants of economics
       2. Behavioral economics
